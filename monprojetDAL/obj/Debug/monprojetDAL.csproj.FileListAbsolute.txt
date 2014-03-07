@@ -1,0 +1,10 @@
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetDAL\bin\Debug\monprojetDAL.dll
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetDAL\bin\Debug\monprojetDAL.pdb
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetDAL\obj\Debug\monprojetDAL.dll
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetDAL\obj\Debug\monprojetDAL.pdb
+C:\Users\zed\Documents\monprojetDAL\monprojetDAL\bin\Debug\monprojetDAL.dll
+C:\Users\zed\Documents\monprojetDAL\monprojetDAL\bin\Debug\monprojetDAL.pdb
+C:\Users\zed\Documents\monprojetDAL\monprojetDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zed\Documents\monprojetDAL\monprojetDAL\obj\Debug\monprojetDAL.dll
+C:\Users\zed\Documents\monprojetDAL\monprojetDAL\obj\Debug\monprojetDAL.pdb

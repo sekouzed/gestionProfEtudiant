@@ -1,0 +1,14 @@
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetBO\bin\Debug\monprojetBO.dll
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetBO\bin\Debug\monprojetBO.pdb
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetBO\bin\Debug\monprojetDAL.dll
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetBO\bin\Debug\monprojetDAL.pdb
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetBO\obj\Debug\monprojetBO.dll
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetBO\obj\Debug\monprojetBO.pdb
+C:\Users\zed\Documents\monprojetDAL\monprojetBO\bin\Debug\monprojetBO.dll
+C:\Users\zed\Documents\monprojetDAL\monprojetBO\bin\Debug\monprojetBO.pdb
+C:\Users\zed\Documents\monprojetDAL\monprojetBO\bin\Debug\monprojetDAL.dll
+C:\Users\zed\Documents\monprojetDAL\monprojetBO\bin\Debug\monprojetDAL.pdb
+C:\Users\zed\Documents\monprojetDAL\monprojetBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zed\Documents\monprojetDAL\monprojetBO\obj\Debug\monprojetBO.dll
+C:\Users\zed\Documents\monprojetDAL\monprojetBO\obj\Debug\monprojetBO.pdb

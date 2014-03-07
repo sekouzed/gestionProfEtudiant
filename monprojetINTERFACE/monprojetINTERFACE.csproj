@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D48B9F0A-CF81-456E-ADDD-8189BD9987C2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>monprojetINTERFACE</RootNamespace>
+    <AssemblyName>monprojetINTERFACE</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAjouterEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAjouterEtudiant.Designer.cs">
+      <DependentUpon>FormAjouterEtudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAfficherEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAfficherEtudiant.Designer.cs">
+      <DependentUpon>FormAfficherEtudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExporter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExporter.Designer.cs">
+      <DependentUpon>FormExporter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormImporter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormImporter.Designer.cs">
+      <DependentUpon>FormImporter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTrouver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTrouver.Designer.cs">
+      <DependentUpon>FormTrouver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAjouterEtudiant.resx">
+      <DependentUpon>FormAjouterEtudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAfficherEtudiant.resx">
+      <DependentUpon>FormAfficherEtudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExporter.resx">
+      <DependentUpon>FormExporter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormImporter.resx">
+      <DependentUpon>FormImporter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTrouver.resx">
+      <DependentUpon>FormTrouver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\monprojetDAL.etudiant.datasource" />
+    <None Include="Properties\DataSources\monprojetDAL.etudiantDO.datasource" />
+    <None Include="Properties\DataSources\monprojetDAL.personne.datasource" />
+    <None Include="Properties\DataSources\monprojetDAL.professeur.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024x768 %2842%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024x768 %2819%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\monprojetBO\monprojetBAL.csproj">
+      <Project>{8404B85F-02E9-4759-8F87-7766A48BE8D5}</Project>
+      <Name>monprojetBAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\monprojetDAL\monprojetDAL.csproj">
+      <Project>{480CBAF1-69AE-47E5-984B-626FAFBC01FF}</Project>
+      <Name>monprojetDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sans titre.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\offre-portable-etudiant-id132.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auditeur-financier.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ici_gif2_.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48x48-open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-open-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\import_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\import_icon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AUntitled 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_ouvrir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled 11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trouver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trouver1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled 12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NJN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HJK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KJHG.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

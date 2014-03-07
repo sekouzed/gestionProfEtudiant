@@ -1,0 +1,35 @@
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetINTERFACE.exe
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetINTERFACE.pdb
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.Form1.resources
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.Properties.Resources.resources
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.exe
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.pdb
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.FormAfficherEtudiant.resources
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.FormAjouterEtudiant.resources
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetDAL.dll
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetDAL.pdb
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetBO.dll
+C:\Users\zed\documents\visual studio 2010\Projects\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetBO.pdb
+C:\Users\zed\Documents\Visual Studio 2010\Projects\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.FormChercherEtudiant.resources
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.exe
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.pdb
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetINTERFACE.exe
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetINTERFACE.pdb
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetBO.dll
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetDAL.dll
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetBO.pdb
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\bin\Debug\monprojetDAL.pdb
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.Form1.resources
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.FormAjouterEtudiant.resources
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.FormAfficherEtudiant.resources
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.Properties.Resources.resources
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.FormImporter.resources
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.FormExporter.resources
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\monprojetINTERFACE.FormTrouver.resources
+C:\Users\zed\Documents\monprojetDAL\monprojetINTERFACE\obj\x86\Debug\GenerateResource.read.2099.tlog
